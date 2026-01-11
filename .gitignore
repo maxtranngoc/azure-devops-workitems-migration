@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets / env
+.env
+*.env
+secrets.*
+config.local.*
+config.*.local.*
+
+# Logs / exports
+*.log
+exports/
+dataExport/
+
+# Attachments folder (local)
+attachments/
+ado_attachments*/
